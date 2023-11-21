@@ -1,5 +1,5 @@
 # deno
 deno - dockerfile
 
-I was able to run deno from docker, here is the configuration that I used. 
-- experimental! 
+I was able to use deno with jupyter labs. This is the configuration that I used. 
+According to the developers this is an experimental feature of deno.
